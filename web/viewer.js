@@ -3534,7 +3534,7 @@ const defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: "https://www.eugenefn.com/fileserver/prod/docu/5010/5010_20201209165151_SignKorea%20%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80.pdf",
+    value: false,
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
